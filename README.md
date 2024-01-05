@@ -15,4 +15,4 @@ This simple Calorie Counter App allows users to track their daily calorie intake
 4. .classList, .classList.add('classname'), .classList.remove('classname');
 5. template literal of strings
 ___
-Feel free to use, modify, and distribute the code as needed
+Feel free to use, modify, and distribute the code as needed.
